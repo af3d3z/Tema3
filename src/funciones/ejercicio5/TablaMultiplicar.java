@@ -1,4 +1,4 @@
-package ejercicio5;
+package funciones.ejercicio5;
 
 public class TablaMultiplicar {
     public static void imprimirTablaMultiplicar(int n) {

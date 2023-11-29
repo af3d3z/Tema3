@@ -1,4 +1,4 @@
-package ejercicio6;
+package funciones.ejercicio6;
 
 public class Cilindro {
     public static double areaVolumen(double altura, double radio, short opcion) {

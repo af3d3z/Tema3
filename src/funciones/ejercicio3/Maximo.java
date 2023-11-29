@@ -1,4 +1,4 @@
-package ejercicio3;
+package funciones.ejercicio3;
 
 public class Maximo {
     // duda: el procesado para por ejemplo evitar que se introduzcan dos numeros iguales debe hacerse aqui o en el main?

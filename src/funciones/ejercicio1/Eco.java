@@ -1,4 +1,4 @@
-package ejercicio1;
+package funciones.ejercicio1;
 
 public class Eco {
     public static void eco(int n) {

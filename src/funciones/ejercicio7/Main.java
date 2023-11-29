@@ -1,4 +1,4 @@
-package ejercicio7;
+package funciones.ejercicio7;
 
 public class Main {
     public static void main(String[] args) {

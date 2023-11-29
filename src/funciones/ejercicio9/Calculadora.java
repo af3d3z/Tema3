@@ -1,4 +1,4 @@
-package ejercicio9;
+package funciones.ejercicio9;
 
 public class Calculadora {
     public static double calculadora(short operando, double n1, double n2){

@@ -1,4 +1,4 @@
-package ejercicio1;
+package funciones.ejercicio1;
 
 public class Main {
     /*PRUEBAS:

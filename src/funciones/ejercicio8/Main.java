@@ -1,4 +1,4 @@
-package ejercicio8;
+package funciones.ejercicio8;
 
 public class Main {
     public static void main(String[] args) {

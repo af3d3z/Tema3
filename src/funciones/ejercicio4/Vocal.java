@@ -1,4 +1,4 @@
-package ejercicio4;
+package funciones.ejercicio4;
 
 public class Vocal {
     public static boolean comprobarVocal(char vocal) {

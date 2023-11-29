@@ -1,4 +1,4 @@
-package ejercicio2;
+package funciones.ejercicio2;
 
 public class Funcion{
     // muestra todos los numeros entre el primer parametro y el segundo sin importar que uno sea mayor o menor
